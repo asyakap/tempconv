@@ -15,7 +15,7 @@ _This is a temperature conversion page to practice basic Java Script coding prin
 ## Setup/Installation Requirements
 
 * _You need a web browser_
-* _Open this page from your browser https://asyakap.github.io/calculator/_
+* _Open this page from your browser https://asyakap.github.io/tempconv/_
 
 
 ## Known Bugs
